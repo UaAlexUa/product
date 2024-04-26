@@ -1,0 +1,23 @@
+.produkt-item {
+    background: #b3b3b3;
+    box-shadow: 13px 10px 17px 4px rgba(0,0,0,0.82);
+    height: 300px;
+    width: 200px;
+    border-radius: 12%;
+
+}
+.produkt-img {
+    width: 190px;
+    height: 190px;
+    object-fit: cover;
+    display: block;
+    border-radius: 12%;
+    padding: 2px;
+}
+.like {
+    height: 20px;
+    width: 20px;
+    object-fit: cover;
+    border-radius: 50%;
+    background: #ffffff;
+}
